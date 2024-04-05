@@ -1,0 +1,21 @@
+{
+  "users": {
+    "userOne": {
+      "name": "joao",
+      "age": 25,
+      "occupation": "developer",
+      "hobby": [
+        "reading", "games", "exercising"
+      ]
+    },
+    "userTwo": {
+      "name": "roger"
+    },
+    "userThree": {
+      "name": "thiago"
+    },
+    "userFour": {
+      "name": "amanda"
+    }
+  }
+}
